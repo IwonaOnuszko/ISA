@@ -1,2 +1,3 @@
 # ISA
-JDS
+
+Junior Data Scientist Bootcamp Projects
